@@ -17,7 +17,8 @@ def main():
         #'progress_hooks': [durum],
     }
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-        ydl.download(['https://www.youtube.com/watch?v=fMiHCbQqN1E'])  # muse
+        ydl.download(['https://www.youtube.com/watch?v=Af-HRBoEyTI'])  #  Lee Morgan USA 1961 Leeway full
+        #ydl.download(['https://www.youtube.com/watch?v=fMiHCbQqN1E'])  # muse
         #ydl.download(['https://www.youtube.com/watch?v=u1OyF1Gkz-A&t=3208s'])
         #ydl.download(['https://www.youtube.com/watch?v=fzWQV5OiQQQ'])
         #ydl.download(['https://www.youtube.com/watch?v=u1OyF1Gkz-A&t=3147s'])
